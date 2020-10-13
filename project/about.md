@@ -1,6 +1,8 @@
 # About
 [[toc]]
 
+TESTING NETLIFY PR DEPLOY MAGIC
+
 ## Core Project Team
 | Name | Discord Name | Primary Role |
 | ---- | ------------ | ---- |
